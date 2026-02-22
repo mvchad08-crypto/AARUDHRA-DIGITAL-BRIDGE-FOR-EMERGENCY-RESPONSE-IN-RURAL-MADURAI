@@ -8,6 +8,7 @@ see: workflow.jpeg
 * ## 🧠 My Contribution: Idea Provider & System Architect
  **Conceptualization**: Engineered the end-to-end logic for a low-latency emergency response system.
  **Technical Defense**: Primary respondent for the technical Q&A, defending the architectural logic to a global panel of experts.
+ 
 ## 👥 The Team
 * **Ms.CHANDANA V**: Project Concept, System Logic Design, and  Presentation.
 * **Ms.SAHITHYA P**: Lead  Developer (Android/MIT App Inventor) and Presentation
@@ -20,3 +21,9 @@ This project was a collaborative effort. While I served as the **Architect & Log
 ![System Workflow](./workflow.jpeg)
 * **Development Repository:** [sahithya-5508 / AARUDHRA](https://github.com/sahithya-5508/AARUDHRA)
 * **Combined Contributor Insights:** [View Project Statistics](https://github.com/sahithya-5508/AARUDHRA/graphs/contributors)
+
+* 📄 **Research & Documentation**
+*  **Research Paper**: DIGITAL BRIDGE FOR EMERGENCY RESPONSE IN RURAL MADURAI PAPER
+*  Documentation Lead: Sahithya P
+*  Research & Data Sourcing: Chandana V
+*  Contribution: I provided the data-backed logic and rural demographic research that formed the basis of this paper's technical argument.
