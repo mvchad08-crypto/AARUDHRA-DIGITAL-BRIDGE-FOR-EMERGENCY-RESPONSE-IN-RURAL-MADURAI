@@ -9,7 +9,8 @@
 ### Ms. SAHITHYA P
 **Role:** Lead Developer
  * **Implementation:** Responsible for the technical coding of the mobile application using MIT App Inventor.. 
- * **Integration** : Managed UI components, APK builds, and co-authored the technical paper..
+ * **Integration** : Managed UI components, APK builds, and co-authored the technical paper.
+ * https://github.com/sahithya-5508/AARUDHRA/
    
 ### Ms. FARJANA
   **Role:** Data Collector & Coordinator
