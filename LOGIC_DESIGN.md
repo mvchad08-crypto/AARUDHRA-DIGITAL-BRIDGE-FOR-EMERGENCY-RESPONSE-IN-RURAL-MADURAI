@@ -1,6 +1,6 @@
 **AARUDHRA: System Logic & Architectural Decisions**
 * **Author: CHANDANA V** – Idea Provider & System Architect
-* 
+  
 **1. Problem Statement & Conceptualization**
 *In rural India, emergency response is often delayed due to inaccurate mapping and fragmented contact databases. I conceptualized AARUDHRA to act as a localized "Command Center" on a mobile device, ensuring that even with low technical literacy, a user can trigger a high-speed response.
 
