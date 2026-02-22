@@ -9,9 +9,8 @@ Resource Efficiency: OSM handles tiles efficiently, reducing the app's memory fo
 Open Source: Aligns with the conference theme of "Sustainable Technology."
 3. Search & Sort Logic Architecture
    To ensure the 30% reduction in retrieval time, I designed the data flow as follows:
-     Priority Ranking: Contacts are sorted by proximity and "Service Type" (Ambulance vs. Fire vs. Police) using a custom indexing method.
-     Binary Search Implementation: I specified the use of binary search logic for the contact database to ensure $O(\log n)$ lookup speeds, which is vital when the database grows.
-4. Conference Defense & Q&A
+     Priority Ranking: Contacts are sorted by proximity and "Service Type" Ambulance  using a custom indexing method.
+     4. Conference Defense & Q&A
    During the ICISTEEH-26 presentation, I served as the primary respondent for the panel. Key queries I addressed included:
-     Scalability: How the logic would handle a 10x increase in user load.
-     Fail-safe Mechanisms: What happens if the GPS signal is lost (logic fallback to Last Known Location).
+     How it help when rural people already know about snake bite. I replied since the recent report shows increases in death by sanke bite in rural areas and increases in mobile uses in rural areas definityly it help rural peoples
+
