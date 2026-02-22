@@ -17,6 +17,6 @@ see: workflow.jpeg
 
 ## 🔗 Collaboration & Implementation
 This project was a collaborative effort. While I served as the **Architect & Logic Designer**, the technical development was led by my teammate.
-
+![System Workflow](./workflow.jpeg)
 * **Development Repository:** [sahithya-5508 / AARUDHRA](https://github.com/sahithya-5508/AARUDHRA)
 * **Combined Contributor Insights:** [View Project Statistics](https://github.com/sahithya-5508/AARUDHRA/graphs/contributors)
