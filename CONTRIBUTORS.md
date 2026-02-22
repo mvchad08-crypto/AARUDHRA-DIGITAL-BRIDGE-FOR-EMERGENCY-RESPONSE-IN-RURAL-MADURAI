@@ -1,6 +1,6 @@
 # Project Contributors
 
-### CHANDANA V
+### Ms.CHANDANA V
   **Role:** Idea Provider, System Architect, & Lead Presenter
  * **Vision**: Defined the product roadmap and core problem-solution framework.
  * **Architecture**: Designed the system workflow and logic for all four primary modules.
@@ -12,7 +12,15 @@
  * **Integration** : Managed UI components, APK builds, and co-authored the technical paper.
  * https://github.com/sahithya-5508/AARUDHRA/
    
-### Ms. FARJANA
+### Ms. FARJANA.G
   **Role:** Data Collector & Coordinator
 * **Data Sourcing**: Led the collection of emergency contact databases and hospital locations.
 * **Coordination** : Assisted in the final technical presentation.
+
+* ## 🎓 Project Guidance & Mentorship
+
+We are deeply grateful for the technical guidance and mentorship provided by:
+
+* **Sri. Sunija A J** – Department of Chemistry, Thiagarajar College of Engineering (TCE), Madurai. 
+* **Sri. Dharani J** – Department of Computer Science and Engineering, Thiagarajar College of Engineering (TCE), Madurai. 
+* **Sri. Pradeepkannan D** – Department of Electronics and Instrumentation Engineering, K.L.N. College of Engineering. 
