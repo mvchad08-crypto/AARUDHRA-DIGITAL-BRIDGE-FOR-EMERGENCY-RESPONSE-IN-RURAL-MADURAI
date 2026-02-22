@@ -2,18 +2,18 @@
 
 ### CHANDANA V
 **Role:** Idea Provider, System Architect, & Lead Presenter
-* Defined the product roadmap and core problem-solution framework.
-* Designed the system architecture and data flow diagrams.
-* led the presentation defense at ICISTEEH-26.
+* •	Co-authored the technical research paper and assisted in the presentationDefined the product roadmap and core problem-solution framework.
+* •	Co-authored the technical research paper and assisted in the presentationDesigned the system architecture and data flow diagrams.
+* •	Co-authored the technical research paper and assisted in the presentationHeaded the Technical Defense during the ICISTEEH-26 Q&A session, addressing high-level queries from the judging panel.
 
 ### Ms. SAHITHYA P
 **Role:** Lead Developer
-* Responsible for the technical implementation of the mobile application.
-* Integrated the UI components and managed APK builds.
-* Prepared the technical paper and
-* Presentation at ICISTEEH-26
+* •	Co-authored the technical research paper and assisted in the presentationResponsible for the technical implementation of the mobile application.
+* •	Co-authored the technical research paper and assisted in the presentationIntegrated the UI components and managed APK builds.
+* •	Co-authored the technical research paper and assisted in the presentationCo-authored the technical research paper and assisted in the presentation
+* •	Co-authored the technical research paper and assisted in the presentationPresentation at ICISTEEH-26
   
 ### Ms. FARJANA
 **Role:** Data collector
-* Responsible for the Data collection
-* Presentation at ICISTEEH-26
+* •	Co-authored the technical research paper and assisted in the presentationResponsible for the Data collection
+* •	Co-authored the technical research paper and assisted in the presentationPresentation at ICISTEEH-26
