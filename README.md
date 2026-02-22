@@ -22,8 +22,9 @@ This project was a collaborative effort. While I served as the **Architect & Log
 * **Development Repository:** [sahithya-5508 / AARUDHRA](https://github.com/sahithya-5508/AARUDHRA)
 * **Combined Contributor Insights:** [View Project Statistics](https://github.com/sahithya-5508/AARUDHRA/graphs/contributors)
 
-* 📄 **Research & Documentation**
-*  **Research Paper**: DIGITAL BRIDGE FOR EMERGENCY RESPONSE IN RURAL MADURAI PAPER
-*  Documentation Lead: Sahithya P
-*  Research & Data Sourcing: Chandana V
-*  Contribution: I provided the data-backed logic and rural demographic research that formed the basis of this paper's technical argument.
+*### 📚 Documentation & Research
+The architectural logic of this project is supported by a formal research paper (presented at ICISTEEH-26).
+
+* **View the Research Paper:** [AARUDHRA_Research_Paper.pdf](./AARUDHRA_Research_Paper.pdf)
+* **Research & Data Sourcing:** Chandana V (via Secondary Research & Open-Source Intelligence)
+* **Documentation Lead:** Sahithya P
