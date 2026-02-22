@@ -5,10 +5,6 @@ Conceptualization: Engineered the end-to-end logic for a low-latency emergency r
 Technical Defense: Primary respondent for the technical Q&A at ICISTEEH-26, defending the system's scalability and architectural logic to a global panel.
 ## 👥 The Team
 * **CHANDANA V**: Project Concept, System Logic Design, and  Presentation.
-* **Ms. XXX**: Lead Mobile Developer (Android/MIT App Inventor) and Presentation
-* **[Third Member Name]**: [Their specific role, e.g., Data Research/UI Design].
+* **Ms.SAHITHYA P**: Lead  Developer (Android/MIT App Inventor) and Presentation
+* **FARJANA**: Data Collector and Prsentation.
 
-## 🛠 Technical Contributions
-* **Idea & Logic (by [Your Name])**: Conceived the architecture for low-latency dispatch and selected the OpenStreetMap API for navigation in resource-constrained environments.
-* **Development (by Ms. XXX)**: Engineered the functional APK and handled the integration of search/sort algorithms.
-* **Presentation**: Defended the technical and socio-economic impact at the ICISTEEH-26 conference at TCE, Madurai.
