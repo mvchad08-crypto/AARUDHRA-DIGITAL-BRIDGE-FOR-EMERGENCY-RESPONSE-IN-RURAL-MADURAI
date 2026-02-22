@@ -9,3 +9,4 @@
 * **Ms.SAHITHYA P**: Lead  Developer (Android/MIT App Inventor) and Presentation
 * **Ms.FARJANA**: Data Collector and Prsentation.
 
+*For a detailed look at the logic design, see [LOGIC_DESIGN.md](./LOGIC_DESIGN.md). For the full list of credits, see [CONTRIBUTORS.md](./CONTRIBUTORS.md).*
