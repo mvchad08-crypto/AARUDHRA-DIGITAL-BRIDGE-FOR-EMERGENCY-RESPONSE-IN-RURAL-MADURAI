@@ -5,7 +5,7 @@
 * **Conceptualization**: Designed the end-to-end logic for a low-latency response system specifically optimized for rural infrastructure.
 * **Technical Defense**: Served as the Primary Respondent for the technical Q&A, defending the system's scalability and architectural integrity to a global panel of experts.
 ## 👥 The Team
-* **CHANDANA V**: Project Concept, System Logic Design, and  Presentation.
+* **Ms.CHANDANA V**: Project Concept, System Logic Design, and  Presentation.
 * **Ms.SAHITHYA P**: Lead  Developer (Android/MIT App Inventor) and Presentation
-* **FARJANA**: Data Collector and Prsentation.
+* **Ms.FARJANA**: Data Collector and Prsentation.
 
