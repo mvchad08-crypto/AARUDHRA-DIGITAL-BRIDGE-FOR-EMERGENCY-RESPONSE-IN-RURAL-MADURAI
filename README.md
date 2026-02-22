@@ -1,9 +1,11 @@
-# AARUDHRA: Digital Bridge for Emergency Response
-* **Role**: Idea Provider, System Architecture 
-* **Achievement**: 3rd Place Winner, ICISTEEH-26 (International Conference)
-* **My Contribution**:
-* **Conceptualization**: Designed the end-to-end logic for a low-latency response system specifically optimized for rural infrastructure.
-* **Technical Defense**: Served as the Primary Respondent for the technical Q&A, defending the system's scalability and architectural integrity to a global panel of experts.
+# AARUDHRA: Digital Bridge for Emergency Response in Rural Madurai
+## 🚀 Project Overview
+AARUDHRA is an award-winning mobile solution designed to optimize emergency services in rural infrastructure. Sponsored by **MoEFCC & CSIR**, this project addresses the critical "Golden Hour" in emergency response.
+* **Achievement**: **3rd Place Winner, ICISTEEH-26 (International Conference)**
+* ## 🧠 My Contribution: Idea Provider & System Architect
+As the conceptual lead of this 3-member team, I focused on the "Brain" of the application:
+* **Engineering Logic:** Designed end-to-end workflows for a low-latency response system.
+* **Technical Defense:** Acted as the lead respondent for the global panel at **TCE Madurai**, defending the architectural integrity of our solution.
 ## 👥 The Team
 * **Ms.CHANDANA V**: Project Concept, System Logic Design, and  Presentation.
 * **Ms.SAHITHYA P**: Lead  Developer (Android/MIT App Inventor) and Presentation
