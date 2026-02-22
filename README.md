@@ -25,6 +25,6 @@ This project was a collaborative effort. While I served as the **Architect & Log
 *### 📚 Documentation & Research
 The architectural logic of this project is supported by a formal research paper (presented at ICISTEEH-26).
 
-* **View the Research Paper:** [AARUDHRA_Research_Paper.pdf](./AARUDHRA_Research_Paper.pdf)
+* **View the Research Paper:** https://github.com/mvchad08-crypto/AARUDHRA-DIGITAL-BRIDGE-FOR-EMERGENCY-RESPONSE-IN-RURAL-MADURAI/tree/main
 * **Research & Data Sourcing:** Chandana V (via Secondary Research & Open-Source Intelligence)
 * **Documentation Lead:** Sahithya P
