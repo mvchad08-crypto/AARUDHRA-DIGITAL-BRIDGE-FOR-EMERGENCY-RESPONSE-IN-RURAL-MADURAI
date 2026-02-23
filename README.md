@@ -4,7 +4,8 @@
 AARUDHRA is a digital emergency response system designed to bridge the gap in emergency services for rural areas. It leverages low-latency communication and mobile technology to enable faster response in regions with limited infrastructure.
 🏗️ System Workflow
 I designed the following logic flow to ensure a seamless user experience during emergencies:
-see: workflow.jpeg 
+* see: [workflow.jpeg](./workflow.jpeg)
+   
 * ## 🧠 My Contribution: Idea Provider & System Architect
  **Conceptualization**: Engineered the end-to-end logic for a low-latency emergency response system.
  **Technical Defense**: Primary respondent for the technical Q&A, defending the architectural logic to a global panel of experts.
