@@ -2,7 +2,7 @@
 **Best poster award winner, ICISTEEH-26 (International Conference)**
 ## 🚀  Overview
 AARUDHRA is a digital emergency response system designed to bridge the gap in emergency services for rural areas. It leverages low-latency communication and mobile technology to enable faster response in regions with limited infrastructure.
-🏗️ System Workflow
+## 🏗️ System Workflow
 I designed the following logic flow to ensure a seamless user experience during emergencies:
 * see: [workflow.jpeg](./workflow.jpeg)
    
