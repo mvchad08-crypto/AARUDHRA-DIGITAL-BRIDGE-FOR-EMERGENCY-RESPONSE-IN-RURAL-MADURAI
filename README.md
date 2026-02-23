@@ -12,7 +12,7 @@ see: workflow.jpeg
 ## 👥 The Team
 * **Ms.CHANDANA V**: Project Concept, System Logic Design, and  Presentation.
 * **Ms.SAHITHYA P**: Lead  Developer (Android/MIT App Inventor) and Presentation
-* **Ms.FARJANA**: Data Collector and Prsentation.
+* **Ms.FARJANA G**: Data Collector and Prsentation.
 
 *For a detailed look at the logic design, see [LOGIC_DESIGN.md](./LOGIC_DESIGN.md). For the full list of credits, see [CONTRIBUTORS.md](./CONTRIBUTORS.md).*
 
@@ -22,7 +22,7 @@ This project was a collaborative effort. While I served as the **Architect & Log
 * **Development Repository:** [sahithya-5508 / AARUDHRA](https://github.com/sahithya-5508/AARUDHRA)
 * **Combined Contributor Insights:** [View Project Statistics](https://github.com/sahithya-5508/AARUDHRA/graphs/contributors)
 
-*### 📚 Documentation & Research
+### 📚 Documentation & Research
 The architectural logic of this project is supported by a formal research paper (presented at ICISTEEH-26).
 
 * **View the Research Paper:** https://github.com/mvchad08-crypto/AARUDHRA-DIGITAL-BRIDGE-FOR-EMERGENCY-RESPONSE-IN-RURAL-MADURAI/blob/main/AARUDHRA_Research_Paper.pdf
